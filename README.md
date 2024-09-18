@@ -1,2 +1,8 @@
-# GuidedCapstone
-Unit 6 Guided Capstone Project Repo
+# Springboard Guided Capstone: Predicting Prices
+Using a predictive model in jupyter notebooks.
+
+
+
+
+
+Archived 9/18/2024
